@@ -1,0 +1,15 @@
+{
+    "id": "61aea707-e218-4448-bbf8-ea37ce4030b7",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.4.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "/",
+        "homepage": "/",
+        "support": "/"
+    },
+    "name": "GlobalTranslation",
+    "nameSlug": "globaltranslation",
+    "classFile": "GlobalTranslationApp.ts",
+    "description": "/"
+}
